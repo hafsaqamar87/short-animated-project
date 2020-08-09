@@ -4,11 +4,9 @@ import Home from './home/home';
 
 function Major() {
     return (
-        <>
-          
+        <>  
           <Navbar />
           <Home />
-     
         </>
     )
 }
